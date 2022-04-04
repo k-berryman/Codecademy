@@ -37,8 +37,33 @@ Our server shall handle this.
 Our back-end needs Authentication & Authorization in our server-side logic to create *secure, personalized, & dynamic* content.
 
 ### Different Back-end Stacks
+Various programming languages can make a back-end.
+Many developers use frameworks as a collection of tools that shape the organization of our back-end. Examples are Express, Flask, Django, Spring, Ruby on Rails, etc.
 
-Sample text
+The collection of technologies used to create the front-end and back-end is called the stack. Think of a *full-stack* developer.
+
+The MEAN stack uses 
+**M**ongoDB for the database
+**E**xpress for the back-end
+**A**ngular for the front-end
+**N**ode
+
+The LAMP stack uses
+**L**inux
+**A**pache
+**M**ySQL
+**P**HP
+
+### Review
+  * The front-end is HTML, CSS, JS, & static assets sent to a web browser
+  * A web server is a process running on our computer that listens for incoming requests over the internet and sends back responses
+  * Manipulating data (CRUD) 
+  * Databases
+  * The server-side of a web app, sometimes called the application server, handles important tasks such as authentication & authorization
+  * The back-end of a web app often has a web API which helps interact with the app's database through HTTP requests and responses
+  * The front-end and back-end together make the tech stack
+
+Now we have a basic knowledge of server-side development and what the back-end is!
 
 ----
 
