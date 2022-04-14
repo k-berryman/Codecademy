@@ -385,4 +385,4 @@ Source Code — [app.py](app.py)
 
 ![Screenshot 3](./pics/flask-pets-3.png)
 
-![Screenshot 3](./pics/flask-pets-3.png)
+![Screenshot 4](./pics/flask-pets-4.png)
