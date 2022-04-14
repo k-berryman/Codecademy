@@ -379,10 +379,10 @@ Use `for idx, item in enumerate(iterable):
 
 Source Code — [app.py](app.py)
 
-![Screenshot 1](../pics/flask-pets-1.png)
+![Screenshot 1](/pics/flask-pets-1.png)
 
-![Screenshot 2](../pics/flask-pets-2.png)
+![Screenshot 2](/pics/flask-pets-2.png)
 
-![Screenshot 3](../pics/flask-pets-3.png)
+![Screenshot 3](/pics/flask-pets-3.png)
 
-![Screenshot 3](../pics/flask-pets-3.png)
+![Screenshot 3](/pics/flask-pets-3.png)
